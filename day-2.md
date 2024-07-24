@@ -22,4 +22,6 @@ So this one initially tripped me up a bit, because I wasn't too sure what they m
 
 I did a bit of digging and came to the conclusion — rightly or wrongly — that a promotional screen is what the user sees when they first download an app and before they sign up? Maybe it's supposed to be an ad that runs on other apps? Not too sure. But I decided to play around with some wireframes to lay it out in more screen-friendly way. Enjoy!  
 
-Oh also, since I'm using GitHub, feel free to check out earlier versions to see the evolution of my copy choices. 
+Oh also, since I'm using GitHub, feel free to check out earlier versions to see the evolution of my copy choices. You can access all my commits by clicking **History** in the upper right below the main menu.
+
+![screenshot of github display showing location of history button](github-history.png)
