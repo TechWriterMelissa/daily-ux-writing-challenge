@@ -10,7 +10,7 @@ Button(s): 25 characters max
 ## Answer
 
 **Air Canada Flight Status Alert:**  
-Flight AC1451 to Vancouver is cancelled due to extreme weather. Please proceed to the nearest Air Canada desk so an agent may assist you with baggage pickup and rebooking.
+Flight AC1451 to Vancouver is cancelled due to extreme weather. Please visit the nearest Air Canada desk for assistance with baggage pickup and rebooking.
 
 VIEW AVAILABLE FLIGHTS
 
