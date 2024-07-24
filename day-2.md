@@ -18,4 +18,4 @@ PocketFan lets you follow the teams you love so you won't miss a thing. Stay in 
 ![mobile wireframe mockup of pocketfan app](day-2-solution.jpg)
 
 ## Discussion
-
+So this one initially tripped me up a bit, because I wasn't too sure what they meant by "promotional screen." I played with some different ideas, and then settled on some copy I thought met the challenge. My user is a busy parent who loves sports but isn't able to invest as much time as they used to in being a fan. They're looking for a way to keep track of their teams and be inolved without watching every game. I kept the tone jovial while speaking to the user's sense of FOMO, and brought in some quippy, fun remarks. I did a bit of digging and came to the conclusion — rightly or wrongly — that a promotional screen is what the user sees when they first download an app and before they sign up? Maybe it's supposed to be an ad that runs on other apps? Not too sure. But I decided to play around with some wireframes to lay it out in more screen-friendly way. Enjoy!  
