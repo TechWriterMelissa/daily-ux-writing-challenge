@@ -23,5 +23,5 @@ I did a bit of digging and came to the conclusion — rightly or wrongly — tha
 
 Oh also, since I'm using GitHub, feel free to check out earlier versions to see the evolution of my copy choices. You can access all my commits by clicking **History** in the upper right below the main menu.
 
-
+&nbsp;
 ![screenshot of github display showing location of history button](github-history.png)
