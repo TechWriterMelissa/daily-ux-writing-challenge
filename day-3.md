@@ -5,6 +5,9 @@ Challenge: Tell the user to enter the right email.
 
 40 characters max
 
+## Final solution
+**Please verify you entered the correct email.** 
+
 ## Worst possible ideas
 Hey loser, that's not the right email.  
 Oops! That doesn't look right. Try again.  
@@ -25,9 +28,6 @@ Email correct? Please check and try again.
 Account not found. Please re-enter your email.  
 Please verify your email and try again.  
 Pease ensure you've entered the correct email. 
-
-## Final solution
-Please verify you entered the correct email. 
 
 ## Discussion
 Since this is a fairly simple one on its face, I started out with a *worst possible ideas* brainstorm to add a little fun to my process and get the creative juices flowing. I played with some different copy ideas. Obviously the biggest challenge is the character limit. I landed on something I think identifies the problem and simultaneously tells the user what they should do to fix it. I wanted to keep the language active voice and positive, avoiding words like "incorrect" or "error".
