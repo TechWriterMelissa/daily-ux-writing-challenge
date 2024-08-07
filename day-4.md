@@ -14,8 +14,8 @@ Subscribe and save 20% on fees with monthly auto-ship by SkyMart. From toilet pa
 CTA1: TRY ONE MONTH FREE  
 CTA2: No, thanks. Continue shopping. 
 
-![mobile wireframe mockup of skygrocer app promotion](day-4-solution-v1.png)
-![mobile wireframe mockup of skygrocer app promotion](day-4-solution-v2.png)
+![mobile wireframe mockup of skygrocer app promotion](day-4-solution-V1.png)
+![mobile wireframe mockup of skygrocer app promotion](day-4-solution-V2.png)
 
 
 ## Discussion
