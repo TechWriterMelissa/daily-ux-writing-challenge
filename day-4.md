@@ -7,13 +7,14 @@ Headline: 45 characters
 Body: 175 characters max  
 Button(s): 25 characters max  
 
-## Solution
+## Final Copy
 **Get your SkyMart staples delivered monthly.**  
 Subscribe and save 20% on fees with monthly auto-ship by SkyMart. From toilet paper to spaghetti, we deliver household staples to your door every month for just $3.99.  
 
 CTA1: TRY ONE MONTH FREE  
-CTA2: No, thanks. Continue shopping. 
+CTA2: No, thanks. Continue shopping.  
 
+## Solution
 ![mobile wireframe mockup of skygrocer app promotion](day-4-solution-V1.png)
 ![mobile wireframe mockup of skygrocer app promotion](day-4-solution-V2.png)
 
