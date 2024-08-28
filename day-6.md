@@ -15,7 +15,7 @@ Evacuation order issued for the town of Okotoks. Visit the provincial emergency 
 *Option B - Car GPS Notification*  
 
 **Provincial Alert**  
-Evacuation order issued in Okotoks. Avoid Hwy 2.
+Town of Okotoks ordered to evacuate. Avoid Hwy 2.
 
 *********************************************
 
