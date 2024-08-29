@@ -8,7 +8,9 @@ Body: 45 characters max
 
 ## Final Solution
 **Powerplay Goal Edmonton**  
-McDavid beats Markstrom top right corner. 
+McDavid scores top right corner. Assists Hyman, Draisaitl. 
+
+123456789012345678901234567890123456789012345
 
 ## Discussion
 I did a bit of research on existing UIs for this type of sports app widget. It helps to know which information is already in the display (such as the score, for example), which allows more space in the copy for details about the play instead of repeating the score, the time, and where they're at in the game. 
