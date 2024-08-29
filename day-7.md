@@ -6,7 +6,8 @@ Challenge: How would you, quickly, let the sports fan know about the latest play
 Headline: 30 characters  
 Body: 45 characters max    
 
-## Answer
-
+## Final Solution
+**Powerplay Goal Edmonton**
+10:21 P01 McDavid from Hyman and Draisaitl
 
 ## Discussion
