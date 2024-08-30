@@ -8,8 +8,8 @@ Body: 140 characters max
 Button(s): 20 characters max  
 
 ## Solution
-![mobile wireframe mockup of skygrocer app promotion](day-5-solution-V1.png)
-![mobile wireframe mockup of skygrocer app promotion](day-5-solution-V2.png)
+![mobile wireframe mockup of design app notification](day-5-solution-V1.png)
+![mobile wireframe mockup of design app tooltip](day-5-solution-V2.png)
 
 
 ## Discussion
