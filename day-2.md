@@ -13,7 +13,7 @@ PocketFan lets you follow the teams you love so you won't miss a thing. Stay in 
 
 ## Solution
 
-![mobile wireframe mockup of pocketfan app](day-2-solution.jpg)
+![mobile wireframe mockup of pocketfan app](day-2-solution-v1.jpg)
 ![mobile wireframe mockup of pocketfan app](day-2-solution-v2.png)
 
 ## Discussion
