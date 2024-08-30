@@ -14,7 +14,7 @@ PocketFan lets you follow the teams you love so you won't miss a thing. Stay in 
 ## Solution
 
 ![mobile wireframe mockup of pocketfan app](day-2-solution.jpg)
-![mobile wireframe mockup of pocketfan app](day-2-solution-v2.jpg)
+![mobile wireframe mockup of pocketfan app](day-2-solution-v2.png)
 
 ## Discussion
 So this one initially tripped me up a bit, because I wasn't too sure what they meant by "promotional screen." I played with some different ideas, and then settled on some copy I thought met the challenge. My user is a busy parent who loves sports but isn't able to invest as much time as they used to in being a fan. They're looking for a way to keep track of their teams and feel connected and involved without watching every game. I kept the tone jovial while speaking to the user's sense of FOMO, and brought in some quippy, fun remarks. I acutally preferred the headline "Bring the game home with you." It was intended to be a play on the phrase *bring work home* with you, but it didn't quite fit with the name PocketFan so I changed it up slightly.  
