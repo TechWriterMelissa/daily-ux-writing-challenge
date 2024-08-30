@@ -10,4 +10,4 @@ Body: 45 characters max
 ![mobile wireframe mockup of sports app widget](day-7-solution.png)
 
 ## Discussion
-I did a bit of research on existing UIs for this type of sports app widget. It helps to know which information is already in the display (such as the score, for example), which allows more space in the copy for details about the play instead of repeating the score, the time, and where they're at in the game. 
+I did a bit of research on existing UIs for this type of sports app widget. It helps to know what information is already displayed (such as the score, for example), to allow more space in the copy for details about the play instead of repeating the score, the time, and where they're at in the game. 
