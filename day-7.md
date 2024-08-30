@@ -6,10 +6,7 @@ Challenge: How would you, quickly, let the sports fan know about the latest play
 Headline: 30 characters  
 Body: 45 characters max    
 
-## Final Solution
-**Powerplay Goal Edmonton**  
-McDavid top right corner. (A) Hyman, Draisaitl.  
-
+## Final Solution  
 ![mobile wireframe mockup of sports app widget](day-7-solution.png)
 
 ## Discussion
