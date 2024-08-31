@@ -7,7 +7,7 @@ Headline: 30 characters
 Body: 45 characters max   
 Button: 25 characters
 
-## Copy Ideas
+## Copy Development
 Tactics  
 -the only tour stop in Canada  
 -limited ticket sales through the app  
@@ -22,7 +22,7 @@ Headline Ideas
 -One Canadian Tour Date  
 
 Body Ideas  
-Limited VIP passes available now for Toonze subscribers / listeners.   
+Limited VIP passes available now on Toonze.   
 
 
 BUTTON:  
@@ -30,7 +30,6 @@ BUTTON:
 -Get Offer  
 -Claim Offer  
 -Claim Your Seats  
-
 
 
 ## Solution  
