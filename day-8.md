@@ -11,7 +11,7 @@ Button: 25 characters
 Tactics  
 -the only tour stop in Canada  
 -limited ticket sales through the app  
--VIP access through the app's ticket sales
+-VIP access through the app's ticket sales  
 -free merch  
 
 Headline Ideas  
@@ -22,7 +22,11 @@ Headline Ideas
 -One Canadian Tour Date  
 
 Body Ideas  
-Limited VIP passes available now on Toonze.   
+Limited VIP passes available now on Toonze.  
+Chill with the band backstage. Then cheer them on from the front row.  
+Sit in the front row. Chill with band backstage  
+Get backstage passes and front row seats.
+
 
 
 BUTTON:  
