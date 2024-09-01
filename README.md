@@ -6,4 +6,5 @@
 [Day 4](day-4.md)  
 [Day 5](day-5.md)  
 [Day 6](day-6.md)  
-[Day 7](day-7.md) 
+[Day 7](day-7.md)  
+[Day 8](day-8.md) 
