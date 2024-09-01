@@ -16,28 +16,14 @@ Get backstage passes and front row seats. 5 spots left.
 CLAIM YOUR SEATS  
 
 **Version 2**  
-Options
--create interest by advertising a small intimate venue  
--let the user know it's the only canadian date  
--tickets sold fast last time  
+Local Live Alert. Lake Street Dive.  
+Up close and personal at the Jubilee in Calgary. 
 
-Local Show Announcement
-Lake Street Dive Tour Dates  
-Get Close and Personal with Lake Street Dive  
-One Special Night with Lake Street Dive  
-Lake Street Dive. One Night Only.  
-Small Venue Alert  
-Lake Street Dive at Jubilee Auditorium.  
-Get up close and personal. Presales now available for Toonze subscribers.  
-Rare Calgary tour date. Toonze presales on now.
-
-BUTTON  
-Get Presales Now
-
+GET PRESALES NOW  
 
 ## Solutions  
-![mobile wireframe mockup of music app notification](day-8-solution.png)  
+![mobile wireframe mockup of music app notification](day-8-solution.png)
 ![mobile wireframe mockup of music app notification](day-8-solution-v2.png)  
 
 ## Discussion
-This challenge is all about the user persona. What would motivate someone to buy tickets if they don't usually attend live concerts? I tapped into some marketing techniques on this one: urgency and scarcity, otherwise known as FOMO (fear of missing out) marketing strategy. In my first version, I pulled the name of the band and the date of the concert out of the headline and body to allow more space for the value proposition. I liked the first iteration, but it was a lot of copy for one screen, and it was missing an escape option, so I played with some options to get a more complete message in fewer characters.  
+This challenge is all about the user persona. What would motivate someone to buy tickets if they don't usually attend live concerts? For the first version, I tried to tap into some marketing techniques: urgency and scarcity, otherwise known as FOMO (fear of missing out) marketing strategy. I pulled the name of the band and the date of the concert out of the character count to allow more space for the value proposition. I liked the first iteration, but it was a lot of copy for one screen. So I played with some different ideas for the second iteration to save space, as well as presenting an alternate value proposition. I like the first value proposition better, because I think it would have broader appeal. However, if the app is customizing it's value proposition based on user research, this type of music fan might be more attracted to a small venue (granted, the venue location isn't variable). 
