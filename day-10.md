@@ -16,9 +16,9 @@ Headline Ideas
 -see what's in stock near you  
 -for the best experience  
 
-Copy Ideas
+Copy Ideas  
 We use this information to connect you with accurate pricing and availability / Get accurate pricing and availability  
-This information helps us
+This information helps us  
 Find out what's in stock at your local dealer
 
 
