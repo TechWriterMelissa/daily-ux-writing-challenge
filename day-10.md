@@ -9,7 +9,21 @@ Button(s): 15 characters max
 
 ## Answer
 
+Headline Ideas  
+-help us help you  
+-unlock local pricing  
+-prices vary by location  
+-see what's in stock near you  
+-for the best experience  
+
+Copy Ideas
+We use this information to connect you with accurate pricing and availability / Get accurate pricing and availability  
+This information helps us
+Find out what's in stock at your local dealer
+
+
 
 
 
 ## Discussion
+I can understand needing the postal code, but why the first name? At first I thought maybe to deter bots? 
