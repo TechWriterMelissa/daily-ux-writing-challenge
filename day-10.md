@@ -30,7 +30,13 @@ Copy Ideas
 -We use location to display what's available in your area  
 -We use location to personalize your search results  
 
+## Solution
+![mobile wireframe mockup of payment method notification](day-10-solution-v2.png)  
 
 
 ## Discussion
-I can understand needing the postal code, but why the first name? At first I thought maybe to deter bots? I did some quick research to see what's happening with car manufacturer websites and other sites that list cars for sale. Some of the manufacturers ask for a location, and sometimes the location is autopopulated (not sure if that's from cookies or saved from previous visits). Nobody asks for a name. Of those that ask for a postal code, it's usually a notification served on the home page such as "set your location."
+My purpose for this challenge was to answer the user's question "why do you need this information from me?"  
+
+I found the context a bit confusing, so I researched similar websites to see how they managed this issue. I didn't come across any sites that asked for a first name and, on most sites, the location was autoset (I assume auto-populated from my browser or IP settings, etc). If the location doesn't populate, or if the location is wrong, the user is prompted to set a location. I imagine the purpose of the location is for accurate pricing and available inventory according to geographic location. However, I'm not sure why the site would require a name — maybe to deter bots? I think my solution fulfills the challenge, but to improve the user experience,  I might recommend not asking for a first name. It could deter or confuse the user and doesn't seem to serve any real purpose.  
+
+I brainstormed some copy ideas and then edited in design for space requirements and flow. For full transparency, the heading "Set your location" is very common among car websites, and I couldn't come up with a better, simpler way to convey the message. 
